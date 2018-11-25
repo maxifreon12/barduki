@@ -6,7 +6,7 @@ Features:
 Glow-
 Chams
 
-Aimbot-
+Aimbot- Smooth Fov
 Rcs
 
 Triggerbot
